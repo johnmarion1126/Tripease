@@ -8,7 +8,7 @@
 </div>
   
 # Tripease
-A full stack web applciation for organizing trips and vacations. Tripease is an travel itinerary website that uses the Google API to query for destinations, lodgings, rentals, and more for you to create your dream vacation with ease. Try it now in our deployed site https://tripease.netlify.app/
+A full stack web application for organizing trips and vacations. Tripease is an travel itinerary website that uses the Google API to query for destinations, lodgings, rentals, and more for you to create your dream vacation with ease. Try it now in our deployed site https://tripease.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/48599206/167319035-d709a441-38c4-4c2d-a485-a2f1124bdbe4.png)
 ## Motivation  
